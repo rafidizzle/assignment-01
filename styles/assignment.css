@@ -189,3 +189,55 @@ a{
     color:#8987A1;
     
 }
+.say{
+    padding: 20px;
+}
+
+
+.star ul{
+    display: flex;
+    list-style: none;
+    text-align: left;
+    justify-content: left;
+}
+.h4{
+    margin-bottom: -25px;
+}
+
+.miya{
+    display: flex;
+    justify-content: space-between;
+}
+.ava{
+    display: flex;
+    align-items: center;
+}
+.maiyya{
+    border-radius: 50px;
+}
+.toma{
+    text-align: center;
+}
+.our{
+    padding: 160px;
+    border-radius: 40px;
+    background-color: white
+}
+.pagol{
+    padding: 30px;
+    border-radius: 30px;
+    background-color:#F2EDED;
+    text-align: left;
+}
+h4{
+    margin-bottom: 0;
+}
+.tor{
+    margin-bottom: 0;
+}
+.mare{
+    margin-top: 0;
+}
+.paglu{
+    margin-bottom: 50px;
+}
