@@ -21,9 +21,9 @@
 /*header styles*/
 .header{
     background-image: url(/Assets/Hero-bg.png);
-    height: 698px;
-    width: 1440px;
-    background-repeat: no-repeat;
+    hight: 698px;
+    with: 1440px;
+    background-rpeat: no-repeat;
     background-position: top center;
     margin-top: 0px;
 }
@@ -50,6 +50,35 @@
     font-size: 65px;
     font-weight: bold;
 }
-body{
-    width: 100%;
+.banner-button{
+    margin-bottom: 152px;
+}
+/*action-section-styles*/
+.action-img{
+    border-radius: 48px;
+    margin-top: 120px;
+    margin-bottom: 120px;
+    margin-right: 160px;
+}
+.section{
+    display: flex;
+    justify-content: center;
+    gap: 220px;
+}
+.section-container{
+    margin-left: 140px;
+    margin-bottom: 180px;
+    
+}
+.section-title{
+    font-size: 42px;
+    font-weight: bold;
+    margin-top: 180px;
+    margin-bottom: 23px;
+}
+.section-subtitle{
+    font-size:24px;
+    font-weight: 400;
+    color:rgba(37, 36, 50, 0.5);
+    margin-bottom: 23px;
 }
