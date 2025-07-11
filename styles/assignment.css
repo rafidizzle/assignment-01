@@ -21,7 +21,13 @@
 /*header styles*/
 .header{
     background-image: url(/Assets/Hero-bg.png);
+    height: 698px;
+    width: 1440px;
+    background-repeat: no-repeat;
+    background-position: top center;
+    margin-top: 0px;
 }
+/*nav styles*/
 .nav-design{
     margin-left: 150px;
     margin-top: 0;
@@ -29,4 +35,21 @@
     margin-bottom: 100px;
     display: flex;
     justify-content: space-between;
+}
+.nav-title{
+    margin-top: 50px;
+}
+.nav-button{
+    margin-top: 50px;
+}
+/*banner styles*/
+.banner-content{
+    text-align: center;
+}
+.banner-title{
+    font-size: 65px;
+    font-weight: bold;
+}
+body{
+    width: 100%;
 }
